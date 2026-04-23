@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "name": "Sony WH-1000XM5",
+    "category": "Kulaklık",
+    "price": 9500,
+    "specs": {
+      "noise_canceling": "Sektör lideri aktif gürültü engelleme (ANC)",
+      "battery": "30 saat (ANC ile), 38 saat (ANC kapalı)",
+      "connection": "Bluetooth 5.2, LDAC desteği",
+      "weight": "250 gram",
+      "fast_charge": "3 dakikada 3 saat oynatma"
+    },
+    "description": "Sektör lideri gürültü engelleme ve üstün ses kalitesi.",
+    "freshness": 98,
+    "marketPrices": {
+      "mediamarkt": { "price": 9499 },
+      "vatan": { "price": 9699 },
+      "teknosa": { "price": 9550 }
+    }
+  },
+  {
+    "id": "2",
+    "name": "iPhone 15 Pro",
+    "category": "Telefon",
+    "price": 72000,
+    "specs": {
+      "screen": "6.1 inç Super Retina XDR OLED",
+      "chip": "A17 Pro (3nm)",
+      "camera": "48MP Ana + 12MP Ultra Geniş + 12MP Telefoto",
+      "storage": "128GB/256GB/512GB/1TB",
+      "durability": "Titanyum kasa, IP68 suya dayanıklılık"
+    },
+    "description": "Titanyum tasarım ve profesyonel kamera sistemi.",
+    "freshness": 99,
+    "marketPrices": {
+      "mediamarkt": { "price": 71999 },
+      "vatan": { "price": 72500 },
+      "teknosa": { "price": 72100 }
+    }
+  },
+  {
+    "id": "3",
+    "name": "MacBook Air M3",
+    "category": "Laptop",
+    "price": 45000,
+    "specs": {
+      "screen": "13.6 inç Liquid Retina (500 nit parlaklık)",
+      "chip": "Apple M3 (8 çekirdek CPU, 8/10 çekirdek GPU)",
+      "ram": "8GB / 16GB / 24GB Unified Memory",
+      "battery": "18 saate kadar pil ömrü",
+      "weight": "1.24 kg"
+    },
+    "description": "İnce, hafif ve inanılmaz derecede hızlı yeni M3 çipli laptop.",
+    "freshness": 97,
+    "marketPrices": {
+      "mediamarkt": { "price": 44800 },
+      "vatan": { "price": 45200 },
+      "teknosa": { "price": 44999 }
+    }
+  },
+  {
+    "id": "4",
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "Telefon",
+    "price": 68000,
+    "specs": {
+      "screen": "6.8 inç Dynamic AMOLED 2X (120Hz, 2600 nit)",
+      "chip": "Snapdragon 8 Gen 3 for Galaxy",
+      "camera": "200MP Ana + 50MP + 12MP + 10MP",
+      "ai": "Galaxy AI (Yapay Zeka Tercüman, Not Yardımı)",
+      "battery": "5000 mAh, 45W kablolu şarj"
+    },
+    "description": "Yapay zeka özellikleri ile donatılmış yeni nesil amiral gemisi.",
+    "freshness": 98,
+    "marketPrices": {
+      "mediamarkt": { "price": 67900 },
+      "vatan": { "price": 68200 },
+      "teknosa": { "price": 67999 }
+    }
+  },
+  {
+    "id": "5",
+    "name": "Apple Watch Series 9",
+    "category": "Akıllı Saat",
+    "price": 14500,
+    "specs": {
+      "screen": "Her Zaman Açık Retina OLED (2000 nit)",
+      "chip": "S9 SiP (Daha hızlı Siri)",
+      "features": "EKG, Kandaki Oksijen, Sıcaklık Algılama",
+      "gesture": "Çift Dokunuş (Double Tap) desteği",
+      "battery": "18 saat normal kullanım"
+    },
+    "description": "Sağlık ve fitness takibinde en güçlü yardımcınız.",
+    "freshness": 96,
+    "marketPrices": {
+      "mediamarkt": { "price": 14450 },
+      "vatan": { "price": 14600 },
+      "teknosa": { "price": 14500 }
+    }
+  },
+  {
+    "id": "6",
+    "name": "iPad Pro M4",
+    "category": "Tablet",
+    "price": 38000,
+    "specs": {
+      "screen": "11 inç Ultra Retina XDR (Tandem OLED)",
+      "chip": "Apple M4 (Yeni Nesil AI Motoru)",
+      "storage": "256GB - 2TB Seçenekleri",
+      "thickness": "5.3 mm (Dünyanın en incesi)",
+      "camera": "12MP Geniş + LiDAR Tarayıcı"
+    },
+    "description": "Dünyanın en ince tasarımı ve en güçlü tablet deneyimi.",
+    "freshness": 99,
+    "marketPrices": {
+      "mediamarkt": { "price": 37900 },
+      "vatan": { "price": 38100 },
+      "teknosa": { "price": 37999 }
+    }
+  },
+  {
+    "id": "7",
+    "name": "ASUS ROG Zephyrus G14",
+    "category": "Oyuncu Laptopu",
+    "price": 55000,
+    "specs": {
+      "gpu": "NVIDIA GeForce RTX 4060/4070 Laptop GPU",
+      "cpu": "AMD Ryzen 9 8945HS",
+      "screen": "14 inç ROG Nebula Display (OLED 3K 120Hz)",
+      "ram": "16GB/32GB LPDDR5X",
+      "weight": "1.50 kg"
+    },
+    "description": "Taşınabilir güç arayan oyuncular için mükemmel seçim.",
+    "freshness": 95,
+    "marketPrices": {
+      "mediamarkt": { "price": 54500 },
+      "vatan": { "price": 55500 },
+      "teknosa": { "price": 54900 }
+    }
+  },
+  {
+    "id": "8",
+    "name": "Xiaomi 14 Ultra",
+    "category": "Telefon",
+    "price": 62000,
+    "specs": {
+      "camera": "4'lü Leica Optik Lens (50MP + 50MP + 50MP + 50MP)",
+      "chip": "Snapdragon 8 Gen 3",
+      "fast_charge": "90W Kablolu, 80W Kablosuz Şarj",
+      "screen": "6.73 inç LTPO AMOLED (QHD+, 3000 nit)",
+      "battery": "5000 mAh"
+    },
+    "description": "Fotoğraf tutkunları için tasarlanmış profesyonel lensli telefon.",
+    "freshness": 94,
+    "marketPrices": {
+      "mediamarkt": { "price": 61999 },
+      "vatan": { "price": 62300 },
+      "teknosa": { "price": 62100 }
+    }
+  }
+]

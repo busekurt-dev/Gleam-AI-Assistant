@@ -1,0 +1,6 @@
+{
+  "name": "Gleam - Akıllı Alışveriş Asistanı",
+  "description": "RAG tabanlı, e-ticaret seçim paradoksunu çözen akıllı ürün eşleştirme asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
