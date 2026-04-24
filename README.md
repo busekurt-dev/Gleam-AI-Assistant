@@ -1,7 +1,8 @@
 
-<img width="1856" height="576" alt="Gemini_Generated_Image_lni9xclni9xclni9" src="https://github.com/user-attachments/assets/ad4ded0e-0c65-4f1a-8752-dcd729a77ab4" />
-
 # Gleam 🛍️ | AI-Powered Smart Shopping Assistant Gleam is an intelligent shopping companion designed to eliminate "choice overload" and "decision fatigue" in the e-commerce world. During my AI education process, I transformed **Prompt Engineering** techniques learned into a tangible project using **Google AI Studio**. 
+
+
+<img width="1856" height="576" alt="Gemini_Generated_Image_lni9xclni9xclni9" src="https://github.com/user-attachments/assets/ad4ded0e-0c65-4f1a-8752-dcd729a77ab4" />
 
 ## 🚀 Why Gleam? Gleam aims to end the hours of research users spend finding the best product at the most affordable price: 
 - **Time Efficiency:** Utilizes the analytical power of AI instead of manual price and feature comparisons.
